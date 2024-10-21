@@ -278,7 +278,7 @@ msgid ""
 "needed for the :mod:`tokenize` module."
 msgstr ""
 "Los siguientes tipos de valores tokens no son usados por el tokenizador C "
-"pero son necesarios para el módulo :mod:`tokenizador`."
+"pero son necesarios para el módulo :mod:`tokenize`."
 
 #: ../Doc/library/token.rst:55
 msgid "Token value used to indicate a comment."
